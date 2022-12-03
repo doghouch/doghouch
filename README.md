@@ -1,8 +1,4 @@
-<br>
-
 ### Introduction :wave:
-
----
 
 Hi, there! I am a student @ UofT and currently work at bunny.net as a Junior Software Developer. 
 
@@ -28,24 +24,19 @@ A nonexhaustive list of my hobbies can be found below:
 - Studying Language
   - I am bilingual and speak both English & French
   
-<br>
+---
 
 ### Contact Info
 
----
-
 I can be reached at `aaronr.hong@mail.utoronto.ca` and `me@aaron.pm`.
 
-<br>
+---
 
 ### Hobby Projects
-
----
 
 I have a few projects that I'm working on (in my free time):
 
 - HDMI capture using my aforementioned FPGA (I'm using a KV260 starter board from Xilinx)
 
 
-<br>
 
