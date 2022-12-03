@@ -38,5 +38,6 @@ I have a few projects that I'm working on (in my free time):
 
 - HDMI capture using my aforementioned FPGA (I'm using a KV260 starter board from Xilinx)
 
+- Redesigning my website (due for a "2023 update")
 
 
