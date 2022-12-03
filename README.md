@@ -7,6 +7,7 @@ A nonexhaustive list of my hobbies can be found below:
 - Programming
   - I currently "main" C# and Python
   - I've *tried* to write a kernel driver, but that didn't go well (having said that, watching the folks over at @AsahiLinux use Rust makes me want to revisit this)
+
 - Drawing 
 
 - Tinkering with hardware
