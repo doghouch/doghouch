@@ -18,8 +18,7 @@ A nonexhaustive list of my hobbies can be found below:
     - "don't touch anything"
     
 - Anime
-  - I enjoy a large variety of anime
-    - I generally stick towards "Slice Of Life" shows
+  - I enjoy a large variety of anime, but prefer "Slice Of Life" shows
     
 - Studying Language
   - I am bilingual and speak both English & French
