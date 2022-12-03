@@ -15,7 +15,7 @@ A nonexhaustive list of my hobbies can be found below:
   
 - Managing my overcomplicated home network
   - It works when it works (TM)
-    - "don't touch anything"
+  - "don't touch anything"
     
 - Anime
   - I enjoy a large variety of anime, but prefer "Slice Of Life" shows
