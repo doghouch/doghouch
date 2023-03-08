@@ -35,7 +35,7 @@ I can be reached at `aaronr.hong@mail.utoronto.ca` and `me@aaron.pm`.
 
 ### Hobby/Personal Projects
 
-I have a few projects that I'm working on (in my free time):
+I have a few project(s) that I'm working on (in my free time):
 
 - FPGA-based network switch
 
