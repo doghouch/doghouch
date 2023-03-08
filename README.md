@@ -5,7 +5,7 @@ Hi, there! I am a student @ UofT and currently work at bunny.net as a Junior Sof
 A nonexhaustive list of my hobbies can be found below:
 
 - Programming
-  - I currently work the most with C# and Python
+  - I use C# and Python the most (right now)
   - Mini-rant: I jigged up an IR-blaster device to control my "dumb" air conditioner, but the REST API is neither secure nor reliable. The stateless nature of the air conditioner's control suite makes it quite difficult to "re-sync" temperatures with the A/C itself. (essentially, you have to set the A/C's minimum or maximum temperature by sending a bunch of raise/lower commands until you know for sure that it is at your min./max. temp)
 
 - Drawing 
@@ -14,7 +14,7 @@ A nonexhaustive list of my hobbies can be found below:
   - ~~I still haven't had the chance to play around with my FPGA dev. board~~ Currently exploring how much bandwidth I can push through the FPGA (as a "dumb" switch)
   - I prefer using RPI Zero boards (given their size) but I've also played around with designing a few PCBs that work around the ESP32
   
-- Managing home network
+- Managing my home network
   - It works when it works (TM)
   - Omada SDN makes me sad
   - "don't touch anything"
