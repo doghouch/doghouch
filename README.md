@@ -12,7 +12,7 @@ A nonexhaustive list of my hobbies can be found below:
 
 - Tinkering with hardware
   - ~~I still haven't had the chance to play around with my FPGA dev. board~~ Currently exploring how much bandwidth I can push through the FPGA (as a "dumb" switch)
-  - I prefer using RPI Zero boards (given their size) but I've also played around with designing a few PCBs
+  - I prefer using RPI Zero boards (given their size) but I've also played around with designing a few PCBs that work around the ESP32
   
 - Managing home network
   - It works when it works (TM)
