@@ -5,24 +5,25 @@ Hi, there! I am a student @ UofT and currently work at bunny.net as a Junior Sof
 A nonexhaustive list of my hobbies can be found below:
 
 - Programming
-  - I currently "main" C# and Python
-  - I've *tried* to write a kernel driver, but that didn't go well (having said that, watching the folks over at @AsahiLinux use Rust makes me want to revisit this)
+  - I currently work the most with C# and Python
+  - Mini-rant: I jigged up an IR-blaster device to control my "dumb" air conditioner, but the REST API is neither secure nor reliable. The stateless nature of the air conditioner's control suite makes it quite difficult to "re-sync" temperatures with the A/C itself. (essentially, you have to set the A/C's minimum or maximum temperature by sending a bunch of raise/lower commands until you know for sure that it is at your min./max. temp)
 
 - Drawing 
 
 - Tinkering with hardware
-  - I still haven't had the chance to play around with my FPGA dev. board
+  - ~~I still haven't had the chance to play around with my FPGA dev. board~~ Currently exploring how much bandwidth I can push through the FPGA (as a "dumb" switch)
   - I prefer using RPI Zero boards (given their size) but I've also played around with designing a few PCBs
   
-- Managing my overcomplicated home network
+- Managing home network
   - It works when it works (TM)
+  - Omada SDN makes me sad
   - "don't touch anything"
     
 - Anime
   - I enjoy a large variety of anime, but prefer "Slice Of Life" shows
     
 - Studying Language
-  - I am bilingual and speak both English & French
+  - I am bilingual and speak both English & French (conversational; I have not actively spoken French in a long time)
   
 ---
 
@@ -32,12 +33,10 @@ I can be reached at `aaronr.hong@mail.utoronto.ca` and `me@aaron.pm`.
 
 ---
 
-### Hobby Projects
+### Hobby/Personal Projects
 
 I have a few projects that I'm working on (in my free time):
 
-- HDMI capture using my aforementioned FPGA (I'm using a KV260 starter board from Xilinx)
-
-- Redesigning my website (due for a "2023 update")
+- FPGA-based network switch
 
 
