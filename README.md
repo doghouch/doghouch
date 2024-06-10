@@ -42,6 +42,6 @@ I can be reached at `aaronr.hong@mail.utoronto.ca`, `aaronr.hong@alumni.utoronto
 
 I have a few project(s) that I'm working on (in my free time):
 
-- No public projects at this time.
+- https://github.com/doghouch/Speedtest2
 
 
