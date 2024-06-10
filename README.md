@@ -1,14 +1,13 @@
 ### Introduction :wave:
 
-Hi, there! I am a student @ UofT (Mississauga).
+Hi, there! I currently work as a full-stack web developer - I graduated from the University of Toronto (Mississauga) with a BSc in CS.
 
 A nonexhaustive list of my hobbies can be found below:
 
 - Programming
   - I use C# and Python the most (right now)
   - HTML/CSS/JS (+ jQuery)
-  - Things that I am not proud of:
-    - I jigged up an IR-blaster device to send commands to my "dumb" air conditioner. The REST API is hooked up to a hodgebodge of sensors and uses an wattmeter to determine state (off/fan/cooling). 
+  - React Native, React
   
 - Drawing 
 
@@ -16,23 +15,26 @@ A nonexhaustive list of my hobbies can be found below:
   - ~~I still haven't had the chance to play around with my FPGA developer board. Currently exploring how much bandwidth I can push through the FPGA (as a "dumb" switch)~~
   - I prefer using RPI Zero boards (given their size) but I've also played around with designing a few PCBs that work around the ESP32
   
-- Managing my home network
-  - It works when it works (TM)
-  - Omada SDN makes me sad; why are so many features missing from the cloud interface?
-    - Adopting a router to a controller makes you lose more than 80% of features... there have been frequent updates but this should've been the case from launch
-  - "don't touch anything"
+- Managing my home lab
+  - Currently using a `TL-SX3008F`, `TP-Link ER8411`, and an OpenWRT box
+  - Servers in operation:
+   - `nas-1` (R7 5800X, 96 TB raw storage in RAID-Z2 - x86)
+   - `compute-1` (R5-5600 - x86)
+   - `compute-2` (i5-4440 - x86)
+   - `compute-3` (AMD Xilinx Kria - ARM)
     
 - Anime
   - I enjoy a large variety of anime, but prefer "Slice Of Life" shows
     
 - Studying Language
-  - I am bilingual and speak both English & French (conversational; I have not actively spoken French in a long time)
+  - My primary language is English
+  - I can speak some French
   
 ---
 
 ### Contact Info
 
-I can be reached at `aaronr.hong@mail.utoronto.ca` and `me@aaron.pm`.
+I can be reached at `aaronr.hong@mail.utoronto.ca`, `aaronr.hong@alumni.utoronto.ca`, and `me@aaron.pm`.
 
 ---
 
